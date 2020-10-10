@@ -1,2 +1,2 @@
 # Materials
-Teaching material, websites, books, cheats, etc
+Teaching material, websites, books, etc
